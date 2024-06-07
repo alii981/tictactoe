@@ -1,0 +1,10 @@
+C:\Users\Petrisor\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Petrisor\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\Petrisor\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\Petrisor\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+C:\Users\Petrisor\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\Petrisor\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\Petrisor\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\Petrisor\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\Petrisor\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Petrisor\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
